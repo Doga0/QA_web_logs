@@ -1,4 +1,4 @@
-IP,method,url,date,location,page_id,page_title,status,status_text,time,response_size,request_time,send,wait,receive
+IP,method,url,date,location,page_id,page_title,status,status_text,response_size,request_time,send,wait,receive
 
 172.67.174.86,GET,https://www.secrcomp.com/blog,"Tue, 20 Aug 2024 15:00:05 GMT",,page_1,https://www.secrcomp.com/blog,200,OK,1103639,2957.912000012584,0.8340000000000032,2587.157000023775,300.64000003039837
 
